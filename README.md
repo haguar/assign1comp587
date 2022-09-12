@@ -131,6 +131,7 @@ You should see the following:
 ```
 * master
 ```
+(You may see 'main' instead of master depending on your version of git bash or what interface you're using)
 
 The `*` states that you're currently on a branch named `master`, and the lack of other output means that `master` is the only branch available.
 By convention, `master` is usually available on all GitHub repositories, and it's considered to be where the most stable version of your software exists.
